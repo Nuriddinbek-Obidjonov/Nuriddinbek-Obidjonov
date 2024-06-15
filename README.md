@@ -1,7 +1,6 @@
-Hi there
-I am Front-end Developer
+Hi there👋. I am a Front-end Developer
 
-Skills
+My Skills: 
 <code><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" width="25px"/></code>
 <code><img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" width="25px"/></code>
 <code><img src="https://cdn.pixabay.com/photo/2017/03/30/17/41/javascript-2189147_1280.png" width="30px"/></code>
